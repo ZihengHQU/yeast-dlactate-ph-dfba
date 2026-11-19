@@ -1,0 +1,114 @@
+{
+ "1": {
+  "authors": "Abbott DA, Suir E, van Maris AJA, Pronk JT",
+  "year": "2008",
+  "raw": "Abbott DA, Suir E, van Maris AJA, Pronk JT. Physiological and transcriptional responses to high concentrations of lactic acid in anaerobic chemostat cultures of *Saccharomyces cerevisiae*. Appl Environ Microbiol. 2008;74(18):5759-5768. doi:10.1128/AEM.01030-08",
+  "doi": "10.1128/AEM.01030-08",
+  "volume": "74",
+  "pages": "5759-5768"
+ },
+ "2": {
+  "authors": "Baek SH, Kwon EY, Kim YH, Hahn JS",
+  "year": "2016",
+  "raw": "Baek SH, Kwon EY, Kim YH, Hahn JS. Metabolic engineering and adaptive evolution for efficient production of D-lactic acid in *Saccharomyces cerevisiae*. Appl Microbiol Biotechnol. 2016;100(6):2737-2748. doi:10.1007/s00253-015-7174-0",
+  "doi": "10.1007/s00253-015-7174-0",
+  "volume": "100",
+  "pages": "2737-2748"
+ },
+ "3": {
+  "authors": "Baek SH, Kwon EY, Bae SJ, Cho BR, Kim SY, Hahn JS",
+  "year": "2017",
+  "raw": "Baek SH, Kwon EY, Bae SJ, Cho BR, Kim SY, Hahn JS. Improvement of D-lactic acid production in *Saccharomyces cerevisiae* under acidic conditions by evolutionary and rational metabolic engineering. Biotechnol J. 2017;12:1700015. doi:10.1002/biot.201700015",
+  "doi": "10.1002/biot.201700015",
+  "volume": "12",
+  "pages": "1700015"
+ },
+ "4": {
+  "authors": "Ishida N, Suzuki T, Tokuhiro K, Nagamori E, Onishi T, Saitoh S, Kitamoto K, Takahashi H",
+  "year": "2006",
+  "raw": "Ishida N, Suzuki T, Tokuhiro K, Nagamori E, Onishi T, Saitoh S, Kitamoto K, Takahashi H. D-lactic acid production by metabolically engineered *Saccharomyces cerevisiae*. J Biosci Bioeng. 2006;101(2):172-177. doi:10.1263/jbb.101.172",
+  "doi": "10.1263/jbb.101.172",
+  "volume": "101",
+  "pages": "172-177"
+ },
+ "5": {
+  "authors": "Rahmasari D, Kahar P, de Oliveira AV, Putra FJN, Kondo A, Ogino C",
+  "year": "2025",
+  "raw": "Rahmasari D, Kahar P, de Oliveira AV, Putra FJN, Kondo A, Ogino C. Factors affecting D-lactic acid production by flocculant *Saccharomyces cerevisiae* under non-neutralizing conditions. Microorganisms. 2025;13(3):618. doi:10.3390/microorganisms13030618",
+  "doi": "10.3390/microorganisms13030618",
+  "volume": "13",
+  "pages": "618"
+ },
+ "6": {
+  "authors": "Moreno-Paz S, Schmitz J, Martins dos Santos VAP, Suarez-Diez M",
+  "year": "2022",
+  "raw": "Moreno-Paz S, Schmitz J, Martins dos Santos VAP, Suarez-Diez M. Enzyme-constrained models predict the dynamics of *Saccharomyces cerevisiae* growth in continuous, batch and fed-batch bioreactors. Microb Biotechnol. 2022;15(5):1434-1445. doi:10.1111/1751-7915.13995",
+  "doi": "10.1111/1751-7915.13995",
+  "volume": "15",
+  "pages": "1434-1445"
+ },
+ "7": {
+  "authors": "Lu H, Li F, Sánchez BJ, Li Z, Wu Y, Li Y, et al",
+  "year": "2019",
+  "raw": "Lu H, Li F, Sánchez BJ, Li Z, Wu Y, Li Y, et al. A consensus *S. cerevisiae* metabolic model Yeast8 and its ecosystem for comprehensively probing cellular metabolism. Nat Commun. 2019;10:3586. doi:10.1038/s41467-019-11581-3",
+  "doi": "10.1038/s41467-019-11581-3",
+  "volume": "10",
+  "pages": "3586"
+ },
+ "8": {
+  "authors": "Sánchez BJ, Zhang C, Nilsson A, Lahtvee PJ, Kerkhoven EJ, Nielsen J",
+  "year": "2017",
+  "raw": "Sánchez BJ, Zhang C, Nilsson A, Lahtvee PJ, Kerkhoven EJ, Nielsen J. Improving the phenotype predictions of a yeast genome-scale metabolic model by incorporating enzymatic constraints. Mol Syst Biol. 2017;13(8):935. doi:10.15252/msb.20167411",
+  "doi": "10.15252/msb.20167411",
+  "volume": "13",
+  "pages": "935"
+ },
+ "9": {
+  "authors": "Zhang C, Sánchez BJ, Li F, Eiden CWQ, Scott WT, Liebal UW, et al",
+  "year": "2024",
+  "raw": "Zhang C, Sánchez BJ, Li F, Eiden CWQ, Scott WT, Liebal UW, et al. Yeast9: a consensus genome-scale metabolic model for *S. cerevisiae* curated by the community. Mol Syst Biol. 2024;20(9):1043-1061. doi:10.1038/s44320-024-00060-7",
+  "doi": "10.1038/s44320-024-00060-7",
+  "volume": "20",
+  "pages": "1043-1061"
+ },
+ "10": {
+  "authors": "Orth JD, Thiele I, Palsson BØ",
+  "year": "2010",
+  "raw": "Orth JD, Thiele I, Palsson BØ. What is flux balance analysis? Nat Biotechnol. 2010;28(3):245-248. doi:10.1038/nbt.1614",
+  "doi": "10.1038/nbt.1614",
+  "volume": "28",
+  "pages": "245-248"
+ },
+ "11": {
+  "authors": "Ebrahim A, Lerman JA, Palsson BØ, Hyduke DR",
+  "year": "2013",
+  "raw": "Ebrahim A, Lerman JA, Palsson BØ, Hyduke DR. COBRApy: COnstraints-Based Reconstruction and Analysis for Python. BMC Syst Biol. 2013;7:74. doi:10.1186/1752-0509-7-74",
+  "doi": "10.1186/1752-0509-7-74",
+  "volume": "7",
+  "pages": "74"
+ },
+ "12": {
+  "authors": "Zhong W, Yang M, Mu T, Wu F, Hao X, Chen R, et al",
+  "year": "2019",
+  "raw": "Zhong W, Yang M, Mu T, Wu F, Hao X, Chen R, et al. Systematically redesigning and optimizing the expression of D-lactate dehydrogenase efficiently produces high-optical-purity D-lactic acid in *Saccharomyces cerevisiae*. Biochem Eng J. 2019;144:217-226. doi:10.1016/j.bej.2018.09.013",
+  "doi": "10.1016/j.bej.2018.09.013",
+  "volume": "144",
+  "pages": "217-226"
+ },
+ "13": {
+  "authors": "Sornlek W, Sae-Tang K, Watcharawipas A, Wongwisansri S, Tanapongpipat S, Eurwilaichtr L, et al",
+  "year": "2022",
+  "raw": "Sornlek W, Sae-Tang K, Watcharawipas A, Wongwisansri S, Tanapongpipat S, Eurwilaichtr L, et al. D-lactic acid production from sugarcane bagasse by genetically engineered *Saccharomyces cerevisiae*. J Fungi. 2022;8(8):816. doi:10.3390/jof8080816",
+  "doi": "10.3390/jof8080816",
+  "volume": "8",
+  "pages": "816"
+ },
+ "14": {
+  "authors": "Peetermans A, Foulquié-Moreno MR, Thevelein JM",
+  "year": "2021",
+  "raw": "Peetermans A, Foulquié-Moreno MR, Thevelein JM. Mechanisms underlying lactic acid tolerance and its influence on lactic acid production in *Saccharomyces cerevisiae*. Microb Cell. 2021;8(6). doi:10.15698/mic2021.06.751",
+  "doi": "10.15698/mic2021.06.751",
+  "volume": "8",
+  "pages": ""
+ }
+}

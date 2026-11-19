@@ -1,0 +1,10 @@
+figure,file,description
+figure1_mechanism,-,Conceptual diagram; no numerical data.
+figure2_toxicity,figure2_observations.csv,Abbott et al. 2008 chemostat points (calibration and held-out test).
+figure2_toxicity,figure2_toxicity_curves.csv,Model curves plotted in Fig. 2A (recomputed from data/toxicity_params.json).
+figure3_batch,figure3_traj_Baek_batch.csv,Uncontrolled-pH batch trajectory.
+figure3_batch,figure3_traj_Ishida_batch.csv,pH 6.5 batch trajectory.
+figure4_validation,figure4_counterfactual.csv,Predictions of both toxicity models against eight strains.
+figure5_design,figure5_ph_sweep.csv,Titre versus controlled pH.
+figure5_design,figure5_genotypes.csv,Titre by genotype at two pH values.
+figure6_sensitivity,figure6_sensitivity.csv,Titre versus LDH capacity and oxygen supply.

@@ -1,0 +1,10 @@
+﻿strain,study,genotype,mode,pH_control,titer_gL,yield_g_g,productivity_g_L_h,doi
+Ishida 2006,Ishida 2006 J Biosci Bioeng 101:172,pdc1::2x Lm-LDH,batch,controlled pH 6.5,61.5,0.612,,10.1263/jbb.101.172
+Rahmasari 2025 (PDC1 locus),Rahmasari 2025 Microorganisms 13:618,Lp-LDH integrated at PDC1,batch,none,51.0,,,10.3390/microorganisms13030618
+Rahmasari 2025 (CYB2 locus),Rahmasari 2025 Microorganisms 13:618,Lp-LDH integrated at CYB2,batch,none,31.9,,,10.3390/microorganisms13030618
+Baek 2016 (no pH control),Baek 2016 Appl Microbiol Biotechnol 100:2737,dld1 jen1 pdc1 adh1 gpd1 gpd2 + Lm ldhA,batch,none,48.9,0.79,0.41,10.1007/s00253-015-7174-0
+Baek 2016 (pH 6),Baek 2016 Appl Microbiol Biotechnol 100:2737,same + ALE + HAA1 overexpression,fed-batch,controlled pH 6.0,112.0,0.80,2.20,10.1007/s00253-015-7174-0
+Baek 2017 (pH 3.5),Baek 2017 Biotechnol J 12:1700015,+ SUR1-I245S erf2 pdc1 extra ldhA,fed-batch,controlled pH 3.5,82.6,0.83,1.50,10.1002/biot.201700015
+Zhong 2019,Zhong 2019 Biochem Eng J 144:217,pdc1 pdc6 jen1 cyb2 dld1 adh1 + 3x Ec-LDH,fed-batch,none,80.0,0.60,1.10,10.1016/j.bej.2018.09.013
+Sornlek 2022 (hybrid2),Sornlek 2022 J Fungi 8:816,pdc1 cyb2 gpd1 adh1 ald6 + Lm-LDH mhpF eutE,batch,none,23.4,0.24,1.54,10.3390/jof8080816
+Ishida 2006 (no pH control),Ishida 2006 J Biosci Bioeng 101:172,pdc1::2x Lm-LDH,batch,none,,0.530,,10.1263/jbb.101.172

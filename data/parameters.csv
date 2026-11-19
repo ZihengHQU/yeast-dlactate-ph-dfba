@@ -1,0 +1,14 @@
+﻿parameter,value,unit,source,note
+pKa_lactic_acid,3.86,-,Abbott 2008 AEM 74:5759,standard value used in that study
+k_H,0.0453,mmol ATP per mmol undissociated acid,this work,calibrated on Abbott 2008 pH 5.0 and pH 3.0 chemostats
+k_A,0.0220,mmol ATP per mmol lactate anion,this work,calibrated on the same two conditions
+m50,21.23,mmol ATP gDW-1 h-1,this work,maintenance demand that halves the biomass yield at D=0.1 h-1
+NGAM,0.70,mmol ATP gDW-1 h-1,ecYeast8 (Sanchez 2017),non-growth-associated maintenance in the model
+q_O2_max,5.0,mmol gDW-1 h-1,assumption,upper range of kLa-limited OUR in lab bioreactors; tested 2-12
+q_lac_max,8.0,mmol gDW-1 h-1,assumption,LDH at ~0.5% of proteome with kcat 144 h-1; tested 3-20
+Ks_glucose,0.28,mM,Moreno-Paz 2022,Monod constant used in the original dFBA implementation
+q_glc_max,10.0,mmol gDW-1 h-1,Moreno-Paz 2022,maximum specific glucose uptake
+kcat_LDH,144,h-1,ecYeast8-lactate model,1/0.006944 from the LDH reaction stoichiometry
+buffer_capacity,175,mM per pH unit,assumption,reproduces the pH drop of unbuffered YPD-style batch cultures
+MW_glucose,180.16,g mol-1,-,-
+MW_lactate,90.08,g mol-1,-,-

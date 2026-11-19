@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.env/
+env/
+code/ecmodels-paper/
+code/yeast9/
+*.xml
+*.tif
+*.pdf
+*.docx
+*.zip
+manuscript/
